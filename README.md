@@ -18,3 +18,6 @@ Keep selecting pairs until all matching pairs are found.
 4. Game End
 The game ends when all pairs are matched, and the board is completely revealed.
 The game will terminate after all the matching pairs are found.
+
+**DEMO VIDEO**
+https://youtu.be/6XUQnwHu6Xk?si=kyBYkTgKOBCA0h7S
